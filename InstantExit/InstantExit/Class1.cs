@@ -66,8 +66,8 @@ public class InstantExit : Script
             // 車から降りた後のプレイヤー位置を少し調整（空中で降りても安定）
             player.Position = vehicle.Position + new Vector3(0, 0, 2); // 位置を少し上に移動
 
-            // パラシュートを自動的に装備
-            Function.Call(Hash.SET_PED_COMPONENT_VARIATION, player, 8, 15, 0, 0);
+            // パラシュートを自動的に装備 ※視覚的に装備するため無効
+            // Function.Call(Hash.SET_PED_COMPONENT_VARIATION, player, 8, 15, 0, 0);
         }
     }
 
