@@ -51,7 +51,7 @@ ScriptHookV DotNet Nightlyビルドを導入してGTA5を起動すると、「SC
 
 - InstantExitKey：本スクリプトを使用して車から降りるキーです。デフォルト値はFキーです。Noneにするとスクリプトを無効にできます。
 - ModifierKey ： 本スクリプトを使用して車から降りる修飾キーです。デフォルト値は左Shiftキー（LShiftKey）です。NoneにするとInstantExitKeyで指定したキーを押すだけで動作します。
-- DebugMode ： 本スクリプトの動作状況を通知機能で確認することができます。通常はFalseで使用して下さい。
+- Parachute ： 降車時にパラシュートを自動で取得します。
 - Invincible ： 降車後、地面に着地するまで無敵状態になります。
 - DebugMode ： 本スクリプトの動作状況を通知機能で確認することができます。通常はFalseで使用して下さい。
 
