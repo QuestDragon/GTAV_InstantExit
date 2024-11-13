@@ -1,5 +1,5 @@
 # Instant Exit - Created By QuestDragon
-Version: 1.0.0
+Version: 1.0.1
 ## 作成した経緯
 GTAVって様々な車に乗り降りすることができますけど、好きなときに降りられないときがありますよね。
 
